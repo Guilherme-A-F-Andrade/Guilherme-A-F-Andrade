@@ -69,12 +69,4 @@ ___________________
 
 </div>
 
-___________________
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-amador&layout=compact&theme=transparent&hide_border=true&title_color=e8e8e8" width="300" />
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=amilcar_alho&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=amilcar_alho&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Playing" width="400"/>
-  </a>
-</p>
