@@ -26,7 +26,7 @@ I'm a software developer with a strong foundation in low-level programming and s
 
 ### Advanced Projects
 [![push_swap](https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/push_swape.png)](https://github.com/Guilherme-A-F-Andrade/push_swap)
-[![minitalk](https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/minitalke.png)](https://github.com/Guilherme-A-F-Andrade/minitalk)
+[![minitalk](https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/minitalke.png)](https://github.com/Guilherme-A-F-Andrade/mini_talk)
 [![so_long](https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/so_longe.png)](https://github.com/Guilherme-A-F-Andrade/so_long)
 [![minishell](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishelle.png)](https://github.com/Guilherme-A-F-Andrade/minishell)
 
