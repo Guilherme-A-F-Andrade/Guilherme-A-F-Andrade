@@ -58,7 +58,7 @@ ___________________
 
 ## 📫 Connect With Me
 
-- **Professional**: [LinkedIn](https://www.linkedin.com/in/Guilherme-F-Andrade)
+- **Professional**: [LinkedIn](www.linkedin.com/in/guilherme-f-andrade)
 - **GitHub**: [@Guilherme-A-F-Andrade](https://github.com/Guilherme-A-F-Andrade)
 - **Email**: guilherme.a.f.de.a@gmail.com
 ---
