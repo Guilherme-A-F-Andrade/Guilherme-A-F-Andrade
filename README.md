@@ -31,7 +31,7 @@ I'm a software developer with a strong foundation in low-level programming and s
 [![minishell](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishelle.png)](https://github.com/Guilherme-A-F-Andrade/minishell)
 
 ### Systems Programming
-[![philosophers](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/philosopherse.png)](https://github.com/Guilherme-A-F-Andrade/philosophers)
+[![philosophers](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/philosopherse.png)](https://github.com/Guilherme-A-F-Andrade/philo)
 
 ___________________
 <p></p>
